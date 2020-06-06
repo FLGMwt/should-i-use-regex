@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/FLGMwt/should-i-use-regex/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/FLGMwt/should-i-use-regex/static/js/main.574a1ade.chunk.js",
+    "main.js.map": "/FLGMwt/should-i-use-regex/static/js/main.574a1ade.chunk.js.map",
+    "runtime-main.js": "/FLGMwt/should-i-use-regex/static/js/runtime-main.e213f540.js",
+    "runtime-main.js.map": "/FLGMwt/should-i-use-regex/static/js/runtime-main.e213f540.js.map",
+    "static/js/2.7f8635d6.chunk.js": "/FLGMwt/should-i-use-regex/static/js/2.7f8635d6.chunk.js",
+    "static/js/2.7f8635d6.chunk.js.map": "/FLGMwt/should-i-use-regex/static/js/2.7f8635d6.chunk.js.map",
+    "index.html": "/FLGMwt/should-i-use-regex/index.html",
+    "precache-manifest.8df8dd3d06f38aca7a98c68be1475a4a.js": "/FLGMwt/should-i-use-regex/precache-manifest.8df8dd3d06f38aca7a98c68be1475a4a.js",
+    "service-worker.js": "/FLGMwt/should-i-use-regex/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/FLGMwt/should-i-use-regex/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.7f8635d6.chunk.js.LICENSE.txt": "/FLGMwt/should-i-use-regex/static/js/2.7f8635d6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e213f540.js",
+    "static/js/2.7f8635d6.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.574a1ade.chunk.js"
+  ]
+}
