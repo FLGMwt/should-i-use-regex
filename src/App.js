@@ -26,11 +26,9 @@ const App = () => {
           To determine if a regular expression is right for your use case, ask
           yourself the following:
         </p>
-        <ol>
-          <li css={textStyle}>
-            Will using a regex here help dismantle white supremacy?
-          </li>
-        </ol>
+        <p css={[textStyle, { textAlign: 'center' }]}>
+          &mdash; Will using a regex here help dismantle white supremacy?
+        </p>
         <p css={textStyle}>
           If the answer to any of these questions is yes, go for it!
         </p>
@@ -55,7 +53,7 @@ const App = () => {
           </li>
           <li>
             <a href="https://unitedwedream.org/abolishice/" css={textStyle}>
-              #AbolishIce
+              #AbolishICE
             </a>
           </li>
         </ul>
